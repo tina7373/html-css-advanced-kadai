@@ -135,10 +135,11 @@ body {
         color: #ffffff;
     }
 
-    #nav-sp.menu{
+    #nav-sp .menu{
         text-decoration: none;
         display: block;
-        margin: auto 20px auto 20px; /*ダメかも*/
+        margin-right: 20px;
+        margin-left: 20px;
         height: 44px;
         font-size: 16px;
         background-image: url("images/arrow.png");
